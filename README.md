@@ -7,7 +7,7 @@ materials (text files, PDFs, web page content) and embedding them on websites vi
 The project doubles as a learning ground for Python Core, backend engineering
 (FastAPI, PostgreSQL) and AI Engineering (RAG, embeddings, evaluation, LLM security).
 
-> Status: early MVP. Implementation plan: `EmbedAI_plan_implementacji_Cursor.md`.
+> Status: early MVP. See this README for scope and setup.
 
 ## Problem
 
